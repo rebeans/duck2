@@ -16,7 +16,7 @@
     </div>
     <script>
 const today = new Date().toISOString().slice(0, 10);
-const key = `your-namespace/${today}`;
+const key = `rebeansduck2/${today}`;
 
 fetch(`https://api.countapi.xyz/hit/${key}?&expire=86400`)
   .then(res => res.json())
