@@ -12,22 +12,7 @@
     <div id="flight-scroll-container">
     <div id="flight-info">
         <span class="info">탑승동(길게 누르면 Flightradar24), 접속불가시 녹색버튼 대체접속</span>
-        <div>오늘 방문자 수: <span id="visitCount">불러오는 중...</span></div>
     </div>
-    <script>
-const today = new Date().toISOString().slice(0, 10);
-const key = `rebeansduck2/${today}`;
-
-fetch(`https://api.countapi.xyz/hit/${key}?&expire=86400`)
-  .then(res => res.json())
-  .then(data => {
-    document.getElementById("visitCount").innerText = data.value;
-  })
-  .catch(err => {
-    console.error("방문자 수 불러오기 실패:", err);
-    document.getElementById("visitCount").innerText = "오류";
-  });
-</script>
     <script src="script.js" defer></script>
     </div>
     <div id="duty-button" class="loading" style="cursor: pointer;">
