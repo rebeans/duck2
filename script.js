@@ -1,1 +1,446 @@
-let deferredPrompt;window["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0062\u0065\u0066\u006f\u0072\u0065\u0069\u006e\u0073\u0074\u0061\u006c\u006c\u0070\u0072\u006f\u006d\u0070\u0074",_0x550fca=>{_0x550fca["\u0070\u0072\u0065\u0076\u0065\u006e\u0074\u0044\u0065\u0066\u0061\u0075\u006c\u0074"]();deferredPrompt=_0x550fca;const _0x1f4744=document['createElement']("\u0062\u0075\u0074\u0074\u006f\u006e");_0x1f4744["\u0074\u0065\u0078\u0074\u0043\u006f\u006e\u0074\u0065\u006e\u0074"]='홈\x20화면에\x20추가하기';_0x1f4744["\u0073\u0074\u0079\u006c\u0065"]['position']="dexif".split("").reverse().join("");_0x1f4744["\u0073\u0074\u0079\u006c\u0065"]["\u0074\u006f\u0070"]="\u0031\u0030\u0070\u0078";_0x1f4744['style']["\u006c\u0065\u0066\u0074"]="xp01".split("").reverse().join("");_0x1f4744['style']["\u0070\u0061\u0064\u0064\u0069\u006e\u0067"]="\u0031\u0030\u0070\u0078";_0x1f4744["\u0073\u0074\u0079\u006c\u0065"]["\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064"]="3F6912#".split("").reverse().join("");_0x1f4744["\u0073\u0074\u0079\u006c\u0065"]['color']="\u0077\u0068\u0069\u0074\u0065";_0x1f4744['style']['border']="\u006e\u006f\u006e\u0065";_0x1f4744["\u0073\u0074\u0079\u006c\u0065"]["\u0062\u006f\u0072\u0064\u0065\u0072\u0052\u0061\u0064\u0069\u0075\u0073"]="\u0035\u0070\u0078";_0x1f4744["\u0073\u0074\u0079\u006c\u0065"]['zIndex']="\u0039\u0039\u0039\u0039";_0x1f4744['style']["\u0074\u0072\u0061\u006e\u0073\u0069\u0074\u0069\u006f\u006e"]='opacity\x202s\x20ease';_0x1f4744["\u0073\u0074\u0079\u006c\u0065"]['opacity']="\u0031";document["\u0062\u006f\u0064\u0079"]["\u0061\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064"](_0x1f4744);setTimeout(()=>{_0x1f4744['style']["\u006f\u0070\u0061\u0063\u0069\u0074\u0079"]="\u0030";},0x442a1^0x45de1);setTimeout(()=>{_0x1f4744["\u0072\u0065\u006d\u006f\u0076\u0065"]();},0x43c01^0x41b11);_0x1f4744['addEventListener']("\u0063\u006c\u0069\u0063\u006b",async()=>{if(deferredPrompt){deferredPrompt['prompt']();const{outcome:_0x198236}=await deferredPrompt['userChoice'];console["\u006c\u006f\u0067"]('사용자\x20반응:\x20'+_0x198236);deferredPrompt=null;_0x1f4744["\u0072\u0065\u006d\u006f\u0076\u0065"]();}});});function getSeoulDate(){const _0x23281e=new Date();const _0x31c27e=new Date(_0x23281e['toLocaleString']("\u0065\u006e\u002d\u0055\u0053",{"\u0074\u0069\u006d\u0065\u005a\u006f\u006e\u0065":"\u0041\u0073\u0069\u0061\u002f\u0053\u0065\u006f\u0075\u006c"}));const _0x1ca883=_0x31c27e['getFullYear']();const _0x119a7c=String(_0x31c27e['getMonth']()+(0x7b9e9^0x7b9e8))['padStart'](0x86a84^0x86a86,"\u0030");const _0x431116=String(_0x31c27e['getDate']())["\u0070\u0061\u0064\u0053\u0074\u0061\u0072\u0074"](0x4913c^0x4913e,"\u0030");return''+_0x1ca883+_0x119a7c+_0x431116;}function getValidDates(){const _0x5bfb4c=getSeoulDate();const _0x34a936=(()=>{const _0x33be59=new Date();const _0x1e35b5=new Date(_0x33be59["\u0074\u006f\u004c\u006f\u0063\u0061\u006c\u0065\u0053\u0074\u0072\u0069\u006e\u0067"]("SU-ne".split("").reverse().join(""),{'timeZone':"\u0041\u0073\u0069\u0061\u002f\u0053\u0065\u006f\u0075\u006c"}));_0x1e35b5["\u0073\u0065\u0074\u0044\u0061\u0074\u0065"](_0x1e35b5["\u0067\u0065\u0074\u0044\u0061\u0074\u0065"]()+(0x7b09d^0x7b09c));const _0x1afa3c=_0x1e35b5['getFullYear']();const _0x27b897=String(_0x1e35b5['getMonth']()+(0xeccb5^0xeccb4))["\u0070\u0061\u0064\u0053\u0074\u0061\u0072\u0074"](0x50637^0x50635,"\u0030");const _0x1bca4d=String(_0x1e35b5['getDate']())["\u0070\u0061\u0064\u0053\u0074\u0061\u0072\u0074"](0xac2d8^0xac2da,"\u0030");return''+_0x1afa3c+_0x27b897+_0x1bca4d;})();return[_0x5bfb4c,_0x34a936];}function getHourMinute(_0x566828){const _0x24b4ea=String(_0x566828);return _0x24b4ea["\u0073\u006c\u0069\u0063\u0065"](-(0xc7931^0xc7935));}async function fetchData(_0x166dff){_0x166dff="\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0064\u0075\u0063\u006b\u002d\u0070\u0072\u006f\u0078\u0079\u002e\u0069\u0061\u006d\u0069\u006a\u0068\u0037\u0038\u002e\u0077\u006f\u0072\u006b\u0065\u0072\u0073\u002e\u0064\u0065\u0076";const _0x105da1=encodeURIComponent("\u0068\u0074\u0074\u0070\u003a\u002f\u002f\u0031\u0034\u0034\u002e\u0032\u0034\u002e\u0037\u0034\u002e\u0032\u0036\u003a\u0033\u0030\u0030\u0030\u002f\u0061\u0072\u0072\u0069\u0076\u0061\u006c\u0073\u002e\u006a\u0073\u006f\u006e");const _0x188529=encodeURIComponent("\u0068\u0074\u0074\u0070\u003a\u002f\u002f\u0031\u0034\u0034\u002e\u0032\u0034\u002e\u0037\u0034\u002e\u0032\u0036\u003a\u0033\u0030\u0030\u0030\u002f\u0064\u0065\u0070\u0061\u0072\u0074\u0075\u0072\u0065\u0073\u002e\u006a\u0073\u006f\u006e");const _0x47014d=_0x166dff+"\u002f"+_0x105da1;const _0x50e7b9=_0x166dff+"\u002f"+_0x188529;const[_0x7c3c5d,_0x404e3a]=await Promise["\u0061\u006c\u006c"]([fetch(_0x47014d),fetch(_0x50e7b9)]);const _0x2f9679=await _0x7c3c5d["\u006a\u0073\u006f\u006e"]();const _0x2ffa98=await _0x404e3a['json']();return{'arrData':_0x2f9679,"\u0064\u0065\u0070\u0044\u0061\u0074\u0061":_0x2ffa98};}function getClassName(_0x58e420){const _0x5d7436={"\ud0d1\uc2b9\uc911":'remark-bor','탑승마감':'remark-bor-e','마감예정':"\u0072\u0065\u006d\u0061\u0072\u006b\u002d\u0062\u006f\u0072\u002d\u0065\u0065",'착륙':"\u0072\u0065\u006d\u0061\u0072\u006b\u002d\u0061\u0072\u0072"};return _0x5d7436[_0x58e420]||'';}function filterAndGroupData(_0x2f8e20,_0x374ad3){const[_0x48a3fb,_0x25a5a0]=getValidDates();const _0x1dbb05=[];_0x2f8e20["\u0072\u0065\u0073\u0070\u006f\u006e\u0073\u0065"]["\u0062\u006f\u0064\u0079"]['items']["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x44ea97=>{const _0x3a0f31=String(_0x44ea97['estimatedDatetime']||'')["\u0073\u006c\u0069\u0063\u0065"](0xc0873^0xc0873,0x61ae2^0x61aea);if((_0x3a0f31===_0x48a3fb||_0x3a0f31===_0x25a5a0)&&_0x44ea97['terminalId']==="20P".split("").reverse().join("")&&_0x44ea97['codeshare']!=="\u0053\u006c\u0061\u0076\u0065"&&_0x44ea97["\u0072\u0065\u006d\u0061\u0072\u006b"]!=="\uCC29\uB3C4".split("").reverse().join("")&&_0x44ea97['gateNumber']){_0x1dbb05['push']({"\u0061\u0072\u0072\u005f\u0064\u0065\u0070":"\u2198","\u006f\u0072\u0069\u0067\u0069\u006e\u0061\u006c\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065":_0x44ea97["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0074\u0069\u006d\u0065"]||'','estimatedDateTime':getHourMinute(_0x44ea97["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0074\u0069\u006d\u0065"])||'',"\u0066\u006c\u0069\u0067\u0068\u0074\u0049\u0064":_0x44ea97["\u0066\u006c\u0069\u0067\u0068\u0074\u0049\u0064"]||'','aircraftSubtype':_0x44ea97['aircraftSubtype']?"\u0028"+_0x44ea97["\u0061\u0069\u0072\u0063\u0072\u0061\u0066\u0074\u0053\u0075\u0062\u0074\u0079\u0070\u0065"]+"\u0029":'',"\u0061\u0069\u0072\u0063\u0072\u0061\u0066\u0074\u0052\u0065\u0067\u004e\u006f":_0x44ea97["\u0061\u0069\u0072\u0063\u0072\u0061\u0066\u0074\u0052\u0065\u0067\u004e\u006f"]||'','gatenumber':_0x44ea97["\u0067\u0061\u0074\u0065\u004e\u0075\u006d\u0062\u0065\u0072"]||'',"\u0072\u0065\u006d\u0061\u0072\u006b":_0x44ea97["\u0072\u0065\u006d\u0061\u0072\u006b"]||'',"\u0063\u006c\u0061\u0073\u0073\u005f\u006e\u0061\u006d\u0065":getClassName(_0x44ea97["\u0072\u0065\u006d\u0061\u0072\u006b"])});}});_0x374ad3["\u0072\u0065\u0073\u0070\u006f\u006e\u0073\u0065"]["\u0062\u006f\u0064\u0079"]['items']["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x38524f=>{const _0x49777e=String(_0x38524f["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0074\u0069\u006d\u0065"]||'')['slice'](0x79efd^0x79efd,0x4740b^0x47403);if((_0x49777e===_0x48a3fb||_0x49777e===_0x25a5a0)&&_0x38524f["\u0074\u0065\u0072\u006d\u0069\u006e\u0061\u006c\u0049\u0064"]==="20P".split("").reverse().join("")&&_0x38524f['codeshare']!=="\u0053\u006c\u0061\u0076\u0065"&&_0x38524f['remark']!=="\ucd9c\ubc1c"&&_0x38524f["\u0067\u0061\u0074\u0065\u004e\u0075\u006d\u0062\u0065\u0072"]){let _0x542edb=_0x38524f["\u0072\u0065\u006d\u0061\u0072\u006b"];if(["\uccb4\ud06c\uc778\uc624\ud508","\ud0d1\uc2b9\uc900\ube44","\uccb4\ud06c\uc778\ub9c8\uac10"]["\u0069\u006e\u0063\u006c\u0075\u0064\u0065\u0073"](_0x542edb))_0x542edb='';_0x1dbb05['push']({"\u0061\u0072\u0072\u005f\u0064\u0065\u0070":"\u2197","\u006f\u0072\u0069\u0067\u0069\u006e\u0061\u006c\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065":_0x38524f['estimatedDatetime']||'',"\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065":getHourMinute(_0x38524f["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0074\u0069\u006d\u0065"])||'',"\u0066\u006c\u0069\u0067\u0068\u0074\u0049\u0064":_0x38524f["\u0066\u006c\u0069\u0067\u0068\u0074\u0049\u0064"]||'',"\u0061\u0069\u0072\u0063\u0072\u0061\u0066\u0074\u0053\u0075\u0062\u0074\u0079\u0070\u0065":_0x38524f['aircraftSubtype']?"\u0028"+_0x38524f['aircraftSubtype']+"\u0029":'',"\u0061\u0069\u0072\u0063\u0072\u0061\u0066\u0074\u0052\u0065\u0067\u004e\u006f":_0x38524f["\u0061\u0069\u0072\u0063\u0072\u0061\u0066\u0074\u0052\u0065\u0067\u004e\u006f"]||'',"\u0067\u0061\u0074\u0065\u006e\u0075\u006d\u0062\u0065\u0072":_0x38524f["\u0067\u0061\u0074\u0065\u004e\u0075\u006d\u0062\u0065\u0072"]||'',"\u0072\u0065\u006d\u0061\u0072\u006b":_0x542edb||'',"\u0063\u006c\u0061\u0073\u0073\u005f\u006e\u0061\u006d\u0065":getClassName(_0x542edb)});}});const _0x336b46={};_0x1dbb05['forEach'](_0xd9b6b0=>{const _0xc514d3=_0xd9b6b0["\u0067\u0061\u0074\u0065\u006e\u0075\u006d\u0062\u0065\u0072"];if(!_0x336b46[_0xc514d3])_0x336b46[_0xc514d3]={"\u0067\u0061\u0074\u0065\u006e\u0075\u006d\u0062\u0065\u0072":_0xc514d3,"\u0066\u006c\u0069\u0067\u0068\u0074\u0073":[]};_0x336b46[_0xc514d3]['flights']["\u0070\u0075\u0073\u0068"](_0xd9b6b0);});Object['values'](_0x336b46)['forEach'](_0x42dab1=>{_0x42dab1["\u0066\u006c\u0069\u0067\u0068\u0074\u0073"]['sort']((_0x2b9745,_0x3c6b88)=>_0x2b9745['originalDateTime']["\u006c\u006f\u0063\u0061\u006c\u0065\u0043\u006f\u006d\u0070\u0061\u0072\u0065"](_0x3c6b88["\u006f\u0072\u0069\u0067\u0069\u006e\u0061\u006c\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065"]));});return _0x336b46;}function customGateSort(_0x9b12be){const _0x29fa10=[[0x81bcd^0x81ba8,0x67dad^0x67dcb,0x57e69^0x57e0e,0x917af^0x917c7,0xd5164^0xd510d,0x3d976^0x3d91c],[0x71226^0x7124d,0xb976b^0xb9706,0x3389b^0x338f4,0x908ea^0x9089b],[0xd38e4^0xd3888,0xb4432^0xb445c,0x25f05^0x25f75,0x6c64b^0x6c639],[0x1ca47^0x1ca34,0xc61f7^0xc6182,0xe6376^0xe6301],[0x70844^0x70832,0xa0495^0xa04ef,0x70bbd^0x70bc1],[0x63268^0x63211,0x29c47^0x29c3c,0x6c903^0x6c97e],[0x996c5^0x996bb,0x21feb^0x21f6b,0x9e8e4^0x9e866],[0x71b77^0x71b08,0x3a112^0x3a193,0x5c338^0x5c3bb,0xcafc9^0xcaf4d]];const _0x1568d6=Object["\u0066\u0072\u006f\u006d\u0045\u006e\u0074\u0072\u0069\u0065\u0073"](_0x9b12be["\u006d\u0061\u0070"](_0x2903b5=>[parseInt(_0x2903b5,0x4cb0f^0x4cb05),_0x2903b5]));const _0x27febb=[];_0x29fa10["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"]((_0xcdddc1,_0xc22d68)=>{_0xcdddc1['forEach'](_0x3ba2db=>{if(_0x1568d6[_0x3ba2db]){_0x27febb["\u0070\u0075\u0073\u0068"]({'gateNumber':_0x1568d6[_0x3ba2db],'groupIndex':_0xc22d68});}});});return _0x27febb;}function createFlightTable(_0x306a72){const _0x33fa3e=document['createElement']("\u0074\u0061\u0062\u006c\u0065");const _0x1c1f2f=document["\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006c\u0065\u006d\u0065\u006e\u0074"]("rt".split("").reverse().join(""));_0x1c1f2f["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]=">ht/<>ht<".split("").reverse().join("");const _0x19b5ae=Math["\u006d\u0061\u0078"](...Object['values'](_0x306a72)["\u006d\u0061\u0070"](_0x3b629c=>_0x3b629c['flights']["\u006c\u0065\u006e\u0067\u0074\u0068"]));for(let _0x200a7b=0xb89a8^0xb89a8;_0x200a7b<_0x19b5ae;_0x200a7b++){_0x1c1f2f['innerHTML']+="\u003c\u0074\u0068\u003e"+(_0x200a7b+(0xb646d^0xb646c))+">ht/<".split("").reverse().join("");}_0x33fa3e['appendChild'](_0x1c1f2f);const _0x5a9dd0=customGateSort(Object["\u006b\u0065\u0079\u0073"](_0x306a72));_0x5a9dd0['forEach'](({gateNumber:_0x41fd63,groupIndex:_0x361e16})=>{const _0x129a04=_0x306a72[_0x41fd63];if(!_0x129a04)return;const _0x48a308=document['createElement']("rt".split("").reverse().join(""));if(_0x361e16%(0xc42c9^0xc42cb)===(0x3ebdc^0x3ebdd)){_0x48a308['style']["\u0062\u0061\u0063\u006b\u0067\u0072\u006f\u0075\u006e\u0064\u0043\u006f\u006c\u006f\u0072"]="\u0023\u0065\u0065\u0065\u0065\u0065\u0065";}_0x48a308['innerHTML']='<td\x20class=\x22sticky-col\x22>'+_0x41fd63+"\u003c\u002f\u0074\u0064\u003e";_0x129a04['flights']["\u0066\u006f\u0072\u0045\u0061\u0063\u0068"](_0x175123=>{const _0xb75a8d=_0x175123["\u0063\u006c\u0061\u0073\u0073\u005f\u006e\u0061\u006d\u0065"];let _0x2b328f=_0x175123['arr_dep']==="\u2198"?"000800#".split("").reverse().join(""):"\u0023\u0030\u0030\u0034\u0030\u0038\u0030";let _0x2073a8='';if(_0x175123["\u0061\u0072\u0072\u005f\u0064\u0065\u0070"]==="\u2198"&&_0x175123["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065"]&&_0x175123['remark']!=="\uB959\uCC29".split("").reverse().join("")){const[_0xedbc95]=getValidDates();const _0x127cea=_0x175123["\u006f\u0072\u0069\u0067\u0069\u006e\u0061\u006c\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065"]["\u0073\u006c\u0069\u0063\u0065"](0x45c26^0x45c26,0xb64ca^0xb64c2);if(_0x127cea===_0xedbc95){const _0x2bee59=new Date();const _0x419bf0=new Date(_0x2bee59["\u0074\u006f\u004c\u006f\u0063\u0061\u006c\u0065\u0053\u0074\u0072\u0069\u006e\u0067"]("\u0065\u006e\u002d\u0055\u0053",{"\u0074\u0069\u006d\u0065\u005a\u006f\u006e\u0065":'Asia/Seoul'}));const _0x2dff92=parseInt(_0x175123["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065"]["\u0073\u006c\u0069\u0063\u0065"](0xad33b^0xad33b,0x9c3cc^0x9c3ce),0xef652^0xef658);const _0x189973=parseInt(_0x175123["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065"]["\u0073\u006c\u0069\u0063\u0065"](0x937b2^0x937b0,0x31f57^0x31f53),0xd6290^0xd629a);const _0x1f8653=new Date(_0x419bf0);_0x1f8653['setHours'](_0x2dff92,_0x189973,0xe6088^0xe6088,0x1d92e^0x1d92e);const _0x393f31=(_0x1f8653-_0x419bf0)/(0xa1adf^0xaf0bf);if(_0x393f31>=(0xb9941^0xb9941)&&_0x393f31<=(0x42020^0x42034)){_0x2073a8="\u0063\u006f\u006c\u006f\u0072\u003a\u0072\u0065\u0064\u003b";}}}let _0x414564='<div\x20class=\x22content-all\x22\x20style=\x22'+_0x2073a8+'\x22>';_0x414564+='<p\x20class=\x22compact\x22><span\x20style=\x22color:\x20'+_0x2b328f+';\x20font-weight:\x20bold;\x20font-size:\x201.2em;\x22>'+_0x175123["\u0061\u0072\u0072\u005f\u0064\u0065\u0070"]+">naps/<".split("").reverse().join("")+_0x175123["\u0065\u0073\u0074\u0069\u006d\u0061\u0074\u0065\u0064\u0044\u0061\u0074\u0065\u0054\u0069\u006d\u0065"]+">p/<".split("").reverse().join("");_0x414564+='<p\x20class=\x22compact\x22>'+_0x175123["\u0066\u006c\u0069\u0067\u0068\u0074\u0049\u0064"]+'\x20'+_0x175123['aircraftSubtype']+">p/<".split("").reverse().join("");_0x414564+='<p\x20class=\x22compact\x22>'+_0x175123["\u0061\u0069\u0072\u0063\u0072\u0061\u0066\u0074\u0052\u0065\u0067\u004e\u006f"]+">p/<".split("").reverse().join("");_0x414564+='<p\x20class=\x22compact\x22>'+_0x175123['remark']+"\u003c\u002f\u0070\u003e";_0x414564+=">vid/<".split("").reverse().join("");_0x48a308["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]+='<td\x20class=\x22'+_0xb75a8d+'\x22>'+_0x414564+"\u003c\u002f\u0074\u0064\u003e";});for(let _0x467a82=0xadab8^0xadab8;_0x467a82<_0x19b5ae-_0x129a04["\u0066\u006c\u0069\u0067\u0068\u0074\u0073"]['length'];_0x467a82++){_0x48a308["\u0069\u006e\u006e\u0065\u0072\u0048\u0054\u004d\u004c"]+="\u003c\u0074\u0064\u003e\u003c\u002f\u0074\u0064\u003e";}_0x33fa3e["\u0061\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064"](_0x48a308);});return _0x33fa3e;}function renderData(_0x5bab3a){const _0x763e94=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("\u0066\u006c\u0069\u0067\u0068\u0074\u002d\u0069\u006e\u0066\u006f");const _0x28093d=createFlightTable(_0x5bab3a);_0x763e94["\u0061\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064"](_0x28093d);}function updateData(_0x52ec93){const _0x5d3fd8=document['getElementById']("ofni-thgilf".split("").reverse().join(""));const _0xfbce83=createFlightTable(_0x52ec93);const _0x179d10=_0x5d3fd8["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("\u0074\u0061\u0062\u006c\u0065");if(!_0x179d10||_0x179d10["\u006f\u0075\u0074\u0065\u0072\u0048\u0054\u004d\u004c"]!==_0xfbce83['outerHTML']){if(_0x179d10)_0x5d3fd8["\u0072\u0065\u006d\u006f\u0076\u0065\u0043\u0068\u0069\u006c\u0064"](_0x179d10);_0x5d3fd8["\u0061\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064"](_0xfbce83);}}document["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0044\u004f\u004d\u0043\u006f\u006e\u0074\u0065\u006e\u0074\u004c\u006f\u0061\u0064\u0065\u0064",async()=>{const _0x46dfed=document["\u0067\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0042\u0079\u0049\u0064"]("nottub-hserfer".split("").reverse().join(""));const _0x549361=document['getElementById']("nottub-ytud".split("").reverse().join(""));_0x46dfed["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['add']("gnidaol".split("").reverse().join(""));_0x549361['classList']["\u0072\u0065\u006d\u006f\u0076\u0065"]("\u006c\u006f\u0061\u0064\u0069\u006e\u0067");const{arrData:_0x35fa5f,depData:_0x8c0651}=await fetchData();const _0x20f23a=filterAndGroupData(_0x35fa5f,_0x8c0651);updateData(_0x20f23a);_0x46dfed["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0072\u0065\u006d\u006f\u0076\u0065"]("gnidaol".split("").reverse().join(""));_0x46dfed["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("kcilc".split("").reverse().join(""),async()=>{_0x46dfed["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0061\u0064\u0064"]("\u006c\u006f\u0061\u0064\u0069\u006e\u0067");const _0x5514ff=window['scrollX'];const _0x4ace66=window["\u0073\u0063\u0072\u006f\u006c\u006c\u0059"];const{arrData:_0x3bba86,depData:_0x3773bb}=await fetchData();const _0x304846=filterAndGroupData(_0x3bba86,_0x3773bb);updateData(_0x304846);setTimeout(()=>{window['scrollTo'](_0x5514ff,_0x4ace66);},0xb54a0^0xb54a0);_0x46dfed["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['remove']("\u006c\u006f\u0061\u0064\u0069\u006e\u0067");});_0x549361["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("kcilc".split("").reverse().join(""),()=>{_0x549361['classList']['add']("\u006c\u006f\u0061\u0064\u0069\u006e\u0067");window['location']['href']="\u0068\u0074\u0074\u0070\u0073\u003a\u002f\u002f\u0072\u0065\u0062\u0065\u0061\u006e\u002e\u0064\u0075\u0063\u006b\u0064\u006e\u0073\u002e\u006f\u0072\u0067\u002f\u0070\u0030\u0032\u005f\u0064\u0075\u0074\u0079";});window["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0070\u0061\u0067\u0065\u0073\u0068\u006f\u0077",()=>{_0x549361['classList']['remove']("\u006c\u006f\u0061\u0064\u0069\u006e\u0067");nextdayBtn["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]["\u0072\u0065\u006d\u006f\u0076\u0065"]("gnidaol".split("").reverse().join(""));});document["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0076\u0069\u0073\u0069\u0062\u0069\u006c\u0069\u0074\u0079\u0063\u0068\u0061\u006e\u0067\u0065",()=>{if(document["\u0076\u0069\u0073\u0069\u0062\u0069\u006c\u0069\u0074\u0079\u0053\u0074\u0061\u0074\u0065"]==="\u0076\u0069\u0073\u0069\u0062\u006c\u0065"){_0x549361["\u0063\u006c\u0061\u0073\u0073\u004c\u0069\u0073\u0074"]['remove']("gnidaol".split("").reverse().join(""));}});let _0x7069a2;const _0xacb2bd=0x5ecfb^0x5ed0f;let _0xb417bc=0xc2439^0xc2439;let _0x27ce47=![];let _0x4cd988,_0x33350e;const _0x41749b=document['getElementById']("\u0066\u006c\u0069\u0067\u0068\u0074\u002d\u0069\u006e\u0066\u006f");_0x41749b["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u006d\u006f\u0075\u0073\u0065\u0064\u006f\u0077\u006e",_0x4d5f93);_0x41749b["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u006d\u006f\u0075\u0073\u0065\u0075\u0070",_0x5b3a85);_0x41749b["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u006d\u006f\u0075\u0073\u0065\u006c\u0065\u0061\u0076\u0065",_0x5b3a85);_0x41749b["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("evomesuom".split("").reverse().join(""),_0x122e69);_0x41749b['addEventListener']("\u0074\u006f\u0075\u0063\u0068\u0073\u0074\u0061\u0072\u0074",_0x52e64b);_0x41749b["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0074\u006f\u0075\u0063\u0068\u0065\u006e\u0064",_0x5b3a85);_0x41749b['addEventListener']("lecnachcuot".split("").reverse().join(""),_0x5b3a85);_0x41749b["\u0061\u0064\u0064\u0045\u0076\u0065\u006e\u0074\u004c\u0069\u0073\u0074\u0065\u006e\u0065\u0072"]("\u0074\u006f\u0075\u0063\u0068\u006d\u006f\u0076\u0065",_0x2180a2);function _0x4d5f93(_0xcbc7d4){const _0x7b0b1d=_0xcbc7d4["\u0074\u0061\u0072\u0067\u0065\u0074"]["\u0063\u006c\u006f\u0073\u0065\u0073\u0074"]("\u0074\u0064");if(!_0x7b0b1d)return;_0x5b3a85();_0x27ce47=![];_0x4cd988=_0xcbc7d4["\u0070\u0061\u0067\u0065\u0058"];_0x33350e=_0xcbc7d4["\u0070\u0061\u0067\u0065\u0059"];_0x7069a2=setTimeout(()=>{if(!_0x27ce47){_0x2b29b1(_0x7b0b1d);}},_0xacb2bd);}function _0x52e64b(_0x5572b6){const _0x29cfb3=_0x5572b6["\u0074\u0061\u0072\u0067\u0065\u0074"]["\u0063\u006c\u006f\u0073\u0065\u0073\u0074"]("dt".split("").reverse().join(""));if(!_0x29cfb3)return;_0x5b3a85();_0x27ce47=![];if(_0x5572b6["\u0074\u006f\u0075\u0063\u0068\u0065\u0073"]["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0xaba54^0xaba55)){_0x4cd988=_0x5572b6["\u0074\u006f\u0075\u0063\u0068\u0065\u0073"][0x9f384^0x9f384]['pageX'];_0x33350e=_0x5572b6["\u0074\u006f\u0075\u0063\u0068\u0065\u0073"][0x1e4f3^0x1e4f3]['pageY'];_0x7069a2=setTimeout(()=>{if(!_0x27ce47){_0x2b29b1(_0x29cfb3);}},_0xacb2bd);}else if(_0x5572b6["\u0074\u006f\u0075\u0063\u0068\u0065\u0073"]["\u006c\u0065\u006e\u0067\u0074\u0068"]===(0xa935e^0xa935c)){_0xb417bc=_0x346fdd(_0x5572b6["\u0074\u006f\u0075\u0063\u0068\u0065\u0073"][0xd089e^0xd089e],_0x5572b6["\u0074\u006f\u0075\u0063\u0068\u0065\u0073"][0xe4504^0xe4505]);}}function _0x2b29b1(_0x4a8800){const _0x32456a=_0x4a8800["\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006c\u0065\u0063\u0074\u006f\u0072"]("vid".split("").reverse().join(""));if(_0x32456a){const _0x45abed=_0x32456a['getElementsByTagName']("\u0070");if(_0x45abed["\u006c\u0065\u006e\u0067\u0074\u0068"]>=(0x96498^0x9649a)){let _0x482956=_0x45abed[0x54277^0x54275]["\u0069\u006e\u006e\u0065\u0072\u0054\u0065\u0078\u0074"]["\u0074\u0072\u0069\u006d"]();if(_0x482956){_0x482956=_0x482956["\u0072\u0065\u0070\u006c\u0061\u0063\u0065"](new RegExp("\u005e\u0028\u005b\u0041\u002d\u005a\u005d\u002b\u0029\u0030\u002b",''),"1$".split("").reverse().join(""));const _0x282272="/moc.42radarthgilf.www//:sptth".split("").reverse().join("")+_0x482956+"\u003f\u0066\u006f\u0072\u0063\u0065\u005f\u0062\u0072\u006f\u0077\u0073\u0065\u0072\u003d\u0031";window['location']["\u0068\u0072\u0065\u0066"]=_0x282272;}}}}function _0x5b3a85(){if(_0x7069a2){clearTimeout(_0x7069a2);_0x7
+let deferredPrompt;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+
+    const installBanner = document.createElement('button');
+    installBanner.textContent = "홈 화면에 추가하기";
+    installBanner.style.position = 'fixed';
+    installBanner.style.top = '10px';
+    installBanner.style.left = '10px';
+    installBanner.style.padding = '10px';
+    installBanner.style.background = '#2196F3';
+    installBanner.style.color = 'white';
+    installBanner.style.border = 'none';
+    installBanner.style.borderRadius = '5px';
+    installBanner.style.zIndex = '9999';
+    installBanner.style.transition = 'opacity 2s ease';
+    installBanner.style.opacity = '1';
+
+    document.body.appendChild(installBanner);
+
+    setTimeout(() => {
+        installBanner.style.opacity = '0';
+    }, 8000);
+
+    setTimeout(() => {
+        installBanner.remove();
+    }, 10000);
+
+    installBanner.addEventListener('click', async () => {
+        if (deferredPrompt) {
+            deferredPrompt.prompt();
+            const { outcome } = await deferredPrompt.userChoice;
+            console.log(`사용자 반응: ${outcome}`);
+            deferredPrompt = null;
+            installBanner.remove();
+        }
+    });
+});
+
+function getSeoulDate() {
+    const now = new Date();
+    const seoulTime = new Date(now.toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
+    const year = seoulTime.getFullYear();
+    const month = String(seoulTime.getMonth() + 1).padStart(2, '0');
+    const day = String(seoulTime.getDate()).padStart(2, '0');
+    return `${year}${month}${day}`;
+}
+
+// ✅ 날짜 범위 계산
+function getValidDates() {
+    const today = getSeoulDate();
+    const tomorrow = (() => {
+        const now = new Date();
+        const seoulTime = new Date(now.toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
+        seoulTime.setDate(seoulTime.getDate() + 1);
+        const y = seoulTime.getFullYear();
+        const m = String(seoulTime.getMonth() + 1).padStart(2, '0');
+        const d = String(seoulTime.getDate()).padStart(2, '0');
+        return `${y}${m}${d}`;
+    })();
+    return [today, tomorrow];
+}
+
+function getHourMinute(timeString) {
+    const str = String(timeString);
+    return str.slice(-4);
+}
+
+async function fetchData() {
+    
+    const proxy = 'https://duck-proxy.iamijh78.workers.dev';
+
+    const targetArr = encodeURIComponent('http://144.24.74.26:3000/arrivals.json');
+    const targetDep = encodeURIComponent('http://144.24.74.26:3000/departures.json');
+
+    const urlArr = `${proxy}/${targetArr}`;
+    const urlDep = `${proxy}/${targetDep}`;
+
+    const [arrResponse, depResponse] = await Promise.all([
+    fetch(urlArr),
+    fetch(urlDep),
+    ]);
+
+    const arrData = await arrResponse.json();
+    const depData = await depResponse.json();
+
+    return { arrData, depData };
+}
+
+function getClassName(remark) {
+    const classMap = {
+        "탑승중": "remark-bor",
+        "탑승마감": "remark-bor-e",
+        "마감예정": "remark-bor-ee",
+        "착륙": "remark-arr"
+    };
+    return classMap[remark] || "";
+}
+
+function filterAndGroupData(dataArr, dataDep) {
+    const [today, tomorrow] = getValidDates();
+    const filteredData = [];
+
+    dataArr.response.body.items.forEach(item => {
+        const datePart = String(item.estimatedDatetime || "").slice(0, 8);
+        if (
+            (datePart === today || datePart === tomorrow) &&
+            item.terminalId === "P02" &&   // 여기서도 terminalId 대소문자 확인 필요
+            item.codeshare !== "Slave" &&
+            item.remark !== "도착" &&
+            item.gateNumber
+        ) {
+            filteredData.push({
+                arr_dep: "↘",
+                originalDateTime: item.estimatedDatetime || "",
+                estimatedDateTime: getHourMinute(item.estimatedDatetime) || "",
+                flightId: item.flightId || "",
+                aircraftSubtype: item.aircraftSubtype ? `(${item.aircraftSubtype})` : "",
+                aircraftRegNo: item.aircraftRegNo || "",
+                gatenumber: item.gateNumber || "",
+                remark: item.remark || "",
+                class_name: getClassName(item.remark)
+            });
+        }
+    });
+
+
+    dataDep.response.body.items.forEach(item => {
+        const datePart = String(item.estimatedDatetime || "").slice(0, 8);
+        if (
+            (datePart === today || datePart === tomorrow) &&
+            item.terminalId === "P02" &&
+            item.codeshare !== "Slave" &&
+            item.remark !== "출발" &&
+            item.gateNumber
+        ) {
+            let remark = item.remark;
+            if (["체크인오픈", "탑승준비", "체크인마감"].includes(remark)) remark = "";
+            filteredData.push({
+                arr_dep: "↗",
+                originalDateTime: item.estimatedDatetime || "",
+                estimatedDateTime: getHourMinute(item.estimatedDatetime) || "",
+                flightId: item.flightId || "",
+                aircraftSubtype: item.aircraftSubtype ? `(${item.aircraftSubtype})` : "",
+                aircraftRegNo: item.aircraftRegNo || "",
+                gatenumber: item.gateNumber || "",
+                remark: remark || "",
+                class_name: getClassName(remark)
+            });
+        }
+    });
+
+    const gateData = {};
+    filteredData.forEach(item => {
+        const gateNumber = item.gatenumber;
+        if (!gateData[gateNumber]) gateData[gateNumber] = { gatenumber: gateNumber, flights: [] };
+        gateData[gateNumber].flights.push(item);
+    });
+
+    Object.values(gateData).forEach(gate => {
+        gate.flights.sort((a, b) => a.originalDateTime.localeCompare(b.originalDateTime));
+    });
+
+    return gateData;
+}
+
+function customGateSort(gateNumbers) {
+    const groups = [
+        [101, 102, 103, 104, 105, 106],
+        [107, 109, 111, 113],
+        [108, 110, 112, 114],
+        [115, 117, 119],
+        [118, 122, 124],
+        [121, 123, 125],
+        [126, 128, 130],
+        [127, 129, 131, 132]
+    ];
+
+    const gateNumberMap = Object.fromEntries(gateNumbers.map(num => [parseInt(num, 10), num]));
+
+    const sortedWithGroups = [];
+
+    groups.forEach((group, groupIndex) => {
+        group.forEach(num => {
+            if (gateNumberMap[num]) {
+                sortedWithGroups.push({ gateNumber: gateNumberMap[num], groupIndex });
+            }
+        });
+    });
+
+    return sortedWithGroups;
+}
+
+function createFlightTable(gateData) {
+    const table = document.createElement('table');
+
+    // 헤더
+    const headerRow = document.createElement('tr');
+    headerRow.innerHTML = '<th></th>';
+    const maxFlights = Math.max(...Object.values(gateData).map(gate => gate.flights.length));
+    for (let i = 0; i < maxFlights; i++) {
+        headerRow.innerHTML += `<th>${i + 1}</th>`;
+    }
+    table.appendChild(headerRow);
+
+    const sortedGateEntries = customGateSort(Object.keys(gateData));
+
+    sortedGateEntries.forEach(({ gateNumber, groupIndex }) => {
+        const gate = gateData[gateNumber];
+        if (!gate) return;
+
+        const row = document.createElement('tr');
+        if (groupIndex % 2 === 1) {
+            row.style.backgroundColor = '#eeeeee';
+        }
+
+        row.innerHTML = `<td class="sticky-col">${gateNumber}</td>`;
+
+        gate.flights.forEach(flight => {
+            const className = flight.class_name;
+
+            // 기본 화살표 색상
+            let arrowColor = flight.arr_dep === "↘" ? '#008000' : '#004080';
+
+            // td 전체 글자색 조건: 도착편, 오늘 착륙 예정, 착륙 전 20분 이내, 착륙 상태 아님
+            let cellStyle = '';
+            if (
+                flight.arr_dep === "↘" &&
+                flight.estimatedDateTime &&
+                flight.remark !== "착륙"
+            ) {
+                const [today] = getValidDates();
+                const flightDate = flight.originalDateTime.slice(0, 8); // yyyyMMdd
+
+                // ✅ 오늘 날짜인 경우에만 시간 차 계산
+                if (flightDate === today) {
+                    const now = new Date();
+                    const seoulNow = new Date(now.toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
+                    const hh = parseInt(flight.estimatedDateTime.slice(0, 2), 10);
+                    const mm = parseInt(flight.estimatedDateTime.slice(2, 4), 10);
+                    const estTime = new Date(seoulNow);
+                    estTime.setHours(hh, mm, 0, 0);
+
+                    const diffMinutes = (estTime - seoulNow) / 60000; // 차이 분 단위
+                    if (diffMinutes >= 0 && diffMinutes <= 20) {
+                        cellStyle = 'color:red;'; // td 전체 글자 빨강
+                    }
+                }
+            }
+
+
+            let cellContent = `<div class="content-all" style="${cellStyle}">`;
+            cellContent += `<p class="compact"><span style="color: ${arrowColor}; font-weight: bold; font-size: 1.2em;">${flight.arr_dep}</span>${flight.estimatedDateTime}</p>`;
+            cellContent += `<p class="compact">${flight.flightId} ${flight.aircraftSubtype}</p>`;
+            cellContent += `<p class="compact">${flight.aircraftRegNo}</p>`;
+            cellContent += `<p class="compact">${flight.remark}</p>`;
+            cellContent += '</div>';
+
+            row.innerHTML += `<td class="${className}">${cellContent}</td>`;
+        });
+
+        // 비어있는 셀 채우기
+        for (let i = 0; i < maxFlights - gate.flights.length; i++) {
+            row.innerHTML += '<td></td>';
+        }
+
+        table.appendChild(row);
+    });
+
+    return table;
+}
+
+function renderData(gateData) {
+    const container = document.getElementById('flight-info');
+    const table = createFlightTable(gateData);
+    container.appendChild(table);
+}
+
+function updateData(newGateData) {
+    const container = document.getElementById('flight-info');
+    const newTable = createFlightTable(newGateData);
+
+    const oldTable = container.querySelector('table');
+    if (!oldTable || oldTable.outerHTML !== newTable.outerHTML) {
+        if (oldTable) container.removeChild(oldTable);
+        container.appendChild(newTable);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', async () => {
+    const refreshBtn = document.getElementById('refresh-button');
+    const dutyBtn = document.getElementById('duty-button');
+
+    refreshBtn.classList.add('loading');
+    dutyBtn.classList.remove('loading');
+
+    // 데이터 불러오기
+    const { arrData, depData } = await fetchData();
+    const gateData = filterAndGroupData(arrData, depData);
+    updateData(gateData);
+
+    refreshBtn.classList.remove('loading');
+
+    // 새로고침 버튼 동작
+    refreshBtn.addEventListener('click', async () => {
+        refreshBtn.classList.add('loading');
+
+        // ✅ 현재 스크롤 위치 저장
+        const scrollX = window.scrollX;
+        const scrollY = window.scrollY;
+
+        const { arrData, depData } = await fetchData();
+        const gateData = filterAndGroupData(arrData, depData);
+        updateData(gateData);
+        
+        // ✅ 렌더링 완료 후 스크롤 위치 복원
+        setTimeout(() => {
+            window.scrollTo(scrollX, scrollY);
+        }, 0);
+        
+        refreshBtn.classList.remove('loading');
+        });
+    
+    // 당직 버튼 동작     
+    dutyBtn.addEventListener('click', () => {
+        dutyBtn.classList.add('loading');
+        window.location.href = "https://rebean.duckdns.org/p02_duty";
+    })
+
+   // 뒤로가기나 히스토리 이동 시 로딩 해제
+    window.addEventListener('pageshow', () => {
+        dutyBtn.classList.remove('loading');
+        nextdayBtn.classList.remove('loading');
+    });
+
+    // 앱 전환 또는 탭 전환 시 로딩 해제
+    document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'visible') {
+            dutyBtn.classList.remove('loading');
+        }
+    });
+    
+    let timer;
+    const longPressDelay = 500;
+    let touchStartDistance = 0;
+    let isDragging = false;
+    let startX, startY;
+
+    const table = document.getElementById('flight-info');
+    table.addEventListener('mousedown', startMouseTimer);
+    table.addEventListener('mouseup', clearTimer);
+    table.addEventListener('mouseleave', clearTimer);
+    table.addEventListener('mousemove', handleMouseMove);
+    table.addEventListener('touchstart', startTouchTimer);
+    table.addEventListener('touchend', clearTimer);
+    table.addEventListener('touchcancel', clearTimer);
+    table.addEventListener('touchmove', detectPinchZoomOrDrag);
+
+    function startMouseTimer(event) {
+        const cell = event.target.closest('td');
+        if (!cell) return;
+        clearTimer();
+        isDragging = false;
+        startX = event.pageX;
+        startY = event.pageY;
+        timer = setTimeout(() => {
+            if (!isDragging) {
+                handleLongPress(cell);
+            }
+        }, longPressDelay);
+    }
+
+    function startTouchTimer(event) {
+        const cell = event.target.closest('td');
+        if (!cell) return;
+        clearTimer();
+        isDragging = false;
+        if (event.touches.length === 1) {
+            startX = event.touches[0].pageX;
+            startY = event.touches[0].pageY;
+            timer = setTimeout(() => {
+                if (!isDragging) {
+                    handleLongPress(cell);
+                }
+            }, longPressDelay);
+        } else if (event.touches.length === 2) {
+            touchStartDistance = getDistance(event.touches[0], event.touches[1]);
+        }
+    }
+
+    function handleLongPress(cell) {
+        const div = cell.querySelector('div');
+        if (div) {
+            const paragraphs = div.getElementsByTagName('p');
+            if (paragraphs.length >= 2) {
+                let flightNumber = paragraphs[2].innerText.trim();
+                if (flightNumber) {
+                    flightNumber = flightNumber.replace(/^([A-Z]+)0+/, '$1');
+                    const url = `https://www.flightradar24.com/${flightNumber}?force_browser=1`;
+                    window.location.href = url;
+                }
+            }
+        }
+    }
+
+    function clearTimer() {
+        if (timer) {
+            clearTimeout(timer);
+            timer = null;
+        }
+    }
+
+    function handleMouseMove(event) {
+        if (Math.abs(event.pageX - startX) > 10 || Math.abs(event.pageY - startY) > 10) {
+            isDragging = true;
+            clearTimer();
+        }
+    }
+
+    function detectPinchZoomOrDrag(event) {
+        if (event.touches.length === 2) {
+            const currentDistance = getDistance(event.touches[0], event.touches[1]);
+            if (Math.abs(currentDistance - touchStartDistance) > 10) {
+                clearTimer();
+            }
+        } else if (event.touches.length === 1) {
+            if (Math.abs(event.touches[0].pageX - startX) > 10 || Math.abs(event.touches[0].pageY - startY) > 10) {
+                isDragging = true;
+                clearTimer();
+            }
+        }
+    }
+
+    function getDistance(touch1, touch2) {
+        return Math.sqrt(Math.pow(touch2.pageX - touch1.pageX, 2) + Math.pow(touch2.pageY - touch1.pageY, 2));
+    }
+
+    // 터치 시 텍스트 선택 방지 (iOS Safari용)
+    table.addEventListener('touchstart', (e) => {
+        if (window.getSelection) {
+            window.getSelection().removeAllRanges(); // 선택 해제
+        }
+    });
+});
